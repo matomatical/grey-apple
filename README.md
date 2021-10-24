@@ -5,15 +5,15 @@ Based on (most icons and config):
 [refind-dark-theme](https://github.com/samuelmeuli/refind-theme-dark)
 
 
-![TODO: Screenshot. What's the shortcut?]()
+![TODO: Screenshot taken by pressing F10 on rEFInd]()
 
 
 Icons
 -----
 
-OS icons are 128px. SVG sources are included. The grey is RGB(115,115,115).
-TODO:
-Redo them 128px at the center-top of 160px, to leave space for the dot.
+OS icons are 80px centered within 128px. SVG sources are included.
+The grey is RGB(115,115,115), which might be a little lighter than
+the apple?
 
 
 Installation (macos)
@@ -38,16 +38,15 @@ Roadmap
 
 * [x] Make icons grey
 * [x] Make background
-* [ ] Make icons 128 / 160 or so
-* [ ] Make selection thing in bottom 32
-* [ ] Also for functions
-* [ ] Restore some text and functions? Look at config info
+* [x] Make icons smaller, room for dot
+* [x] Make selection dots
+* [x] Restore some text and functions? Look at config info
 * [ ] Hide double apple
 * [ ] Install something other than macos
 * [ ] Take screenshot and upload
 * [ ] Linux instructions
-* [ ] More icons? Icon script?
-
+* [ ] More icons?
+* [ ] Clean up SVGs (get rid of inkscape bloat)
 
 
 Links

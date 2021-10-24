@@ -6,14 +6,15 @@
    id="Capa_1"
    x="0px"
    y="0px"
-   viewBox="0 0 490 490"
-   style="enable-background:new 0 0 490 490;"
+   viewBox="0 0 64 64"
    xml:space="preserve"
    sodipodi:docname="func_about.svg"
    inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
    inkscape:export-filename="/Users/matt/Downloads/linux-dual-boot/themes/refind-theme-grey/icons/func_about.png"
    inkscape:export-xdpi="12.54"
    inkscape:export-ydpi="12.54"
+   width="64"
+   height="64"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,8 +29,8 @@
    inkscape:pagecheckerboard="1"
    showgrid="false"
    inkscape:zoom="1.2714286"
-   inkscape:cx="244.60674"
-   inkscape:cy="245"
+   inkscape:cx="11.797753"
+   inkscape:cy="117.97753"
    inkscape:window-width="1280"
    inkscape:window-height="800"
    inkscape:window-x="0"
@@ -37,13 +38,14 @@
    inkscape:window-maximized="0"
    inkscape:current-layer="Capa_1" />
 <g
-   id="g1091">
+   id="g1091"
+   transform="matrix(0.08163265,0,0,0.08163265,12.000001,12.000001)">
 	<g
    id="g1089">
 		<g
    id="g1077">
 			<path
-   d="M245,490C109.9,490,0,380.1,0,245S109.9,0,245,0s245,109.9,245,245S380.1,490,245,490z M245,62C144.1,62,62,144.1,62,245     s82.1,183,183,183s183-82.1,183-183S345.9,62,245,62z"
+   d="M 245,490 C 109.9,490 0,380.1 0,245 0,109.9 109.9,0 245,0 380.1,0 490,109.9 490,245 490,380.1 380.1,490 245,490 Z M 245,62 C 144.1,62 62,144.1 62,245 62,345.9 144.1,428 245,428 345.9,428 428,345.9 428,245 428,144.1 345.9,62 245,62 Z"
    id="path1075"
    style="fill:#737373;fill-opacity:1" />
 		</g>
@@ -61,7 +63,7 @@
 			<g
    id="g1085">
 				<polygon
-   points="285.1,359.9 270.4,359.9 219.6,359.9 204.9,359.9 204.9,321 219.6,321 219.6,254.8 205.1,254.8 205.1,215.9       219.6,215.9 263.1,215.9 270.4,215.9 270.4,321 285.1,321     "
+   points="219.6,321 219.6,254.8 205.1,254.8 205.1,215.9 219.6,215.9 263.1,215.9 270.4,215.9 270.4,321 285.1,321 285.1,359.9 270.4,359.9 219.6,359.9 204.9,359.9 204.9,321 "
    id="polygon1083"
    style="fill:#737373;fill-opacity:1" />
 			</g>

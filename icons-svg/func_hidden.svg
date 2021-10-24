@@ -6,10 +6,9 @@
    id="Capa_1"
    x="0px"
    y="0px"
-   width="31.479px"
-   height="31.479px"
-   viewBox="0 0 31.479 31.479"
-   style="enable-background:new 0 0 31.479 31.479;"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    xml:space="preserve"
    sodipodi:docname="func_hidden.svg"
    inkscape:export-filename="/Users/matt/Downloads/linux-dual-boot/themes/refind-theme-grey/icons/func_hidden.png"
@@ -29,12 +28,12 @@
    inkscape:pageopacity="0"
    inkscape:pagecheckerboard="1"
    showgrid="false"
-   inkscape:zoom="15.184726"
-   inkscape:cx="16.826119"
-   inkscape:cy="16.463912"
-   inkscape:window-width="788"
-   inkscape:window-height="748"
-   inkscape:window-x="641"
+   inkscape:zoom="9.9771612"
+   inkscape:cx="34.97989"
+   inkscape:cy="38.187215"
+   inkscape:window-width="1280"
+   inkscape:window-height="774"
+   inkscape:window-x="0"
    inkscape:window-y="26"
    inkscape:window-maximized="0"
    inkscape:current-layer="g1642" />
@@ -42,17 +41,18 @@
    id="g1642">
 	<g
    id="g1640"
-   style="fill:#737373;fill-opacity:1">
+   style="fill:#737373;fill-opacity:1"
+   transform="matrix(1.2706647,0,0,1.2706647,12.000001,12.00034)">
 		<path
-   d="M8.476,17.737l2.385,1.408l-3.104-6.16l-6.949,0.207l2.244,1.331L0,20.172c0,0,2.451,4.442,4.122,7.094    c0.683,1.084,1.597,1.698,2.474,1.698h8.924V22.53l-9.693-0.003L8.476,17.737z"
+   d="m 8.476,17.737 2.385,1.408 -3.104,-6.16 -6.949,0.207 2.244,1.331 L 0,20.172 c 0,0 2.451,4.442 4.122,7.094 0.683,1.084 1.597,1.698 2.474,1.698 H 15.52 V 22.53 L 5.827,22.527 Z"
    id="path1634"
    style="fill:#737373;fill-opacity:1" />
 		<path
-   d="M16.691,10.466l6.763,0.405l3.243-6.147l-2.264,1.297L21.02,0.582c0,0-5.073-0.058-8.202,0.093    c-1.28,0.062-2.266,0.554-2.697,1.315L5.724,9.757l5.599,3.17l4.778-8.435l2.863,4.665L16.691,10.466z"
+   d="m 16.691,10.466 6.763,0.405 3.243,-6.147 -2.264,1.297 -3.413,-5.439 c 0,0 -5.073,-0.058 -8.202,0.093 -1.28,0.062 -2.266,0.554 -2.697,1.315 l -4.397,7.767 5.599,3.17 4.778,-8.435 2.863,4.665 z"
    id="path1636"
    style="fill:#737373;fill-opacity:1" />
 		<path
-   d="M31.23,18.314l-4.245-7.85l-5.659,3.062l4.607,8.527l-5.473-0.053l0.082-2.479l-3.92,5.373l3.487,6.014l0.103-2.606    l6.422-0.003c0,0,2.742-4.27,4.277-7C31.542,20.182,31.647,19.087,31.23,18.314z"
+   d="m 31.23,18.314 -4.245,-7.85 -5.659,3.062 4.607,8.527 L 20.46,22 l 0.082,-2.479 -3.92,5.373 3.487,6.014 0.103,-2.606 6.422,-0.003 c 0,0 2.742,-4.27 4.277,-7 0.631,-1.117 0.736,-2.212 0.319,-2.985 z"
    id="path1638"
    style="fill:#737373;fill-opacity:1" />
 	</g>

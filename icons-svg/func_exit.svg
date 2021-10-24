@@ -6,10 +6,9 @@
    id="Capa_1"
    x="0px"
    y="0px"
-   width="459px"
-   height="459px"
-   viewBox="0 0 459 459"
-   style="enable-background:new 0 0 459 459;"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    xml:space="preserve"
    sodipodi:docname="func_exit.svg"
    inkscape:export-filename="/Users/matt/Downloads/linux-dual-boot/themes/refind-theme-grey/icons/func_exit.png"
@@ -30,8 +29,8 @@
    inkscape:pagecheckerboard="1"
    showgrid="false"
    inkscape:zoom="1.7472767"
-   inkscape:cx="229.5"
-   inkscape:cy="229.78616"
+   inkscape:cx="53.798005"
+   inkscape:cy="167.11721"
    inkscape:window-width="1280"
    inkscape:window-height="774"
    inkscape:window-x="0"
@@ -39,11 +38,12 @@
    inkscape:window-maximized="0"
    inkscape:current-layer="Capa_1" />
 <g
-   id="g1408">
+   id="g1408"
+   transform="matrix(0.08714597,0,0,0.08714597,12,12)">
 	<g
    id="exit-to-app">
 		<path
-   d="M181.05,321.3l35.7,35.7l127.5-127.5L216.75,102l-35.7,35.7l66.3,66.3H0v51h247.35L181.05,321.3z M408,0H51    C22.95,0,0,22.95,0,51v102h51V51h357v357H51V306H0v102c0,28.05,22.95,51,51,51h357c28.05,0,51-22.95,51-51V51    C459,22.95,436.05,0,408,0z"
+   d="m 181.05,321.3 35.7,35.7 127.5,-127.5 -127.5,-127.5 -35.7,35.7 66.3,66.3 H 0 v 51 H 247.35 Z M 408,0 H 51 C 22.95,0 0,22.95 0,51 V 153 H 51 V 51 H 408 V 408 H 51 V 306 H 0 v 102 c 0,28.05 22.95,51 51,51 h 357 c 28.05,0 51,-22.95 51,-51 V 51 C 459,22.95 436.05,0 408,0 Z"
    id="path1405"
    style="fill:#737373;fill-opacity:1" />
 	</g>

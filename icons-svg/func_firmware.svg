@@ -6,10 +6,9 @@
    id="Capa_1"
    x="0px"
    y="0px"
-   width="459px"
-   height="459px"
-   viewBox="0 0 459 459"
-   style="enable-background:new 0 0 459 459;"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    xml:space="preserve"
    sodipodi:docname="func_firmware.svg"
    inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
@@ -29,22 +28,23 @@
    inkscape:pageopacity="0"
    inkscape:pagecheckerboard="1"
    showgrid="false"
-   inkscape:zoom="1.0413943"
-   inkscape:cx="67.217573"
-   inkscape:cy="229.01987"
+   inkscape:zoom="0.73619288"
+   inkscape:cx="36.675171"
+   inkscape:cy="222.76771"
    inkscape:window-width="1280"
-   inkscape:window-height="800"
+   inkscape:window-height="774"
    inkscape:window-x="0"
-   inkscape:window-y="0"
+   inkscape:window-y="26"
    inkscape:window-maximized="0"
    inkscape:current-layer="g1467" />
 <g
    id="g1467">
 	<g
    id="memory"
-   style="fill:#737373;fill-opacity:1">
+   style="fill:#737373;fill-opacity:1"
+   transform="matrix(0.08714597,0,0,0.08714597,12,12)">
 		<path
-   d="M306,153H153v153h153V153z M255,255h-51v-51h51V255z M459,204v-51h-51v-51c0-28.05-22.95-51-51-51h-51V0h-51v51h-51V0h-51    v51h-51c-28.05,0-51,22.95-51,51v51H0v51h51v51H0v51h51v51c0,28.05,22.95,51,51,51h51v51h51v-51h51v51h51v-51h51    c28.05,0,51-22.95,51-51v-51h51v-51h-51v-51H459z M357,357H102V102h255V357z"
+   d="M 306,153 H 153 v 153 h 153 z m -51,102 h -51 v -51 h 51 z M 459,204 V 153 H 408 V 102 C 408,73.95 385.05,51 357,51 H 306 V 0 H 255 V 51 H 204 V 0 H 153 V 51 H 102 C 73.95,51 51,73.95 51,102 v 51 H 0 v 51 h 51 v 51 H 0 v 51 h 51 v 51 c 0,28.05 22.95,51 51,51 h 51 v 51 h 51 v -51 h 51 v 51 h 51 v -51 h 51 c 28.05,0 51,-22.95 51,-51 v -51 h 51 V 255 H 408 V 204 Z M 357,357 H 102 V 102 h 255 z"
    id="path1464"
    style="fill:#737373;fill-opacity:1" />
 	</g>
