@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 490 490"
+   style="enable-background:new 0 0 490 490;"
+   xml:space="preserve"
+   sodipodi:docname="func_about.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   inkscape:export-filename="/Users/matt/Downloads/linux-dual-boot/themes/refind-theme-grey/icons/func_about.png"
+   inkscape:export-xdpi="12.54"
+   inkscape:export-ydpi="12.54"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1096" /><sodipodi:namedview
+   id="namedview1094"
+   pagecolor="#ffffff"
+   bordercolor="#111111"
+   borderopacity="1"
+   inkscape:pageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   showgrid="false"
+   inkscape:zoom="1.2714286"
+   inkscape:cx="244.60674"
+   inkscape:cy="245"
+   inkscape:window-width="1280"
+   inkscape:window-height="800"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Capa_1" />
+<g
+   id="g1091">
+	<g
+   id="g1089">
+		<g
+   id="g1077">
+			<path
+   d="M245,490C109.9,490,0,380.1,0,245S109.9,0,245,0s245,109.9,245,245S380.1,490,245,490z M245,62C144.1,62,62,144.1,62,245     s82.1,183,183,183s183-82.1,183-183S345.9,62,245,62z"
+   id="path1075"
+   style="fill:#737373;fill-opacity:1" />
+		</g>
+		<g
+   id="g1087">
+			<g
+   id="g1081">
+				<circle
+   cx="241.3"
+   cy="159.2"
+   r="29.1"
+   id="circle1079"
+   style="fill:#737373;fill-opacity:1" />
+			</g>
+			<g
+   id="g1085">
+				<polygon
+   points="285.1,359.9 270.4,359.9 219.6,359.9 204.9,359.9 204.9,321 219.6,321 219.6,254.8 205.1,254.8 205.1,215.9       219.6,215.9 263.1,215.9 270.4,215.9 270.4,321 285.1,321     "
+   id="polygon1083"
+   style="fill:#737373;fill-opacity:1" />
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

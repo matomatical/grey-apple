@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="384"
+   height="384"
+   viewBox="0 0 128 128"
+   xml:space="preserve"
+   id="svg18834"
+   sodipodi:docname="os_void.svg"
+   inkscape:export-filename="/Users/matt/Downloads/linux-dual-boot/themes/refind-theme-grey/icons/os_void.png"
+   inkscape:export-xdpi="32"
+   inkscape:export-ydpi="32"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview18836"
+   pagecolor="#ffffff"
+   bordercolor="#111111"
+   borderopacity="1"
+   inkscape:pageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   showgrid="false"
+   inkscape:zoom="1.2447917"
+   inkscape:cx="56.23431"
+   inkscape:cy="191.59833"
+   inkscape:window-width="1280"
+   inkscape:window-height="774"
+   inkscape:window-x="0"
+   inkscape:window-y="26"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="g18830" />
+<desc
+   id="desc18814">Created with Fabric.js 3.6.3</desc>
+<defs
+   id="defs18816">
+</defs>
+<g
+   transform="matrix(0.98 0 0 0.98 64.12 63.92)"
+   id="g18832">
+<g
+   style=""
+   id="g18830">
+		<g
+   transform="matrix(0.61 0 0 0.61 13.38 -13.37)"
+   id="g18820"
+   style="fill:#737373;fill-opacity:1">
+<path
+   style="stroke:none;stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-dashoffset:0;stroke-linejoin:miter;stroke-miterlimit:4;fill:#737373;fill-rule:nonzero;opacity:1;fill-opacity:1"
+   transform=" translate(-149.95, -83.31)"
+   d="M 128.016818 0 C 105.984939 0.0467831409 84.5233718 7.00726851 66.6577572 19.9001677 L 90.560442 43.8028525 C 101.837891 36.9042577 114.796731 33.2431184 128.016818 33.2206376 C 167.789233 33.220559 200.031158 65.4624842 200.03108 105.234899 C 199.999253 118.45028 196.33152 131.402095 189.429569 142.67198 L 213.377556 166.619966 C 226.266359 148.744022 233.217963 127.272821 233.25173 105.234899 C 233.25173 47.1152739 186.136443 0 128.016817 0 L 128.016818 0 Z"
+   stroke-linecap="round"
+   id="path18818" />
+</g>
+		<g
+   transform="matrix(0.61 0 0 0.61 -13.38 13.37)"
+   id="g18824"
+   style="fill:#737373;fill-opacity:1">
+<path
+   style="stroke:none;stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-dashoffset:0;stroke-linejoin:miter;stroke-miterlimit:4;fill:#737373;fill-rule:nonzero;opacity:1;fill-opacity:1"
+   transform=" translate(-106.08, -127.16)"
+   d="M 189.375878 190.569631 L 165.473194 166.666946 C 154.195745 173.565541 141.236905 177.226694 128.016818 177.249161 C 88.2444027 177.24924 56.0024775 145.007314 56.0025561 105.234899 C 56.034383 92.0195183 59.7021028 79.0677038 66.6040664 67.7978188 L 42.6560666 43.8498324 C 29.7672505 61.7257694 22.8156856 83.1969774 22.7819185 105.234899 C 22.7819185 163.354525 69.8971924 210.469799 128.016818 210.469799 C 150.048697 210.423002 171.510264 203.462537 189.375878 190.569631 L 189.375878 190.569631 Z"
+   stroke-linecap="round"
+   id="path18822" />
+</g>
+		<g
+   transform="matrix(0.61 0 0 0.61 -0.01 0)"
+   id="g18828"
+   style="fill:#737373;fill-opacity:1">
+<circle
+   style="stroke:none;stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-dashoffset:0;stroke-linejoin:miter;stroke-miterlimit:4;fill:#737373;fill-rule:nonzero;opacity:1;fill-opacity:1"
+   cx="0"
+   cy="0"
+   r="33.5033557"
+   id="circle18826" />
+</g>
+</g>
+</g>
+</svg>
