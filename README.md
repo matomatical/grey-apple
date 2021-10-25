@@ -1,5 +1,5 @@
-Grey Apple rEFInd theme
-=======================
+Grey Apple rEFInd theme (WIP)
+=============================
 
 
 ![Screenshot: Press F10. Saved to ESP root.](screenshots/screenshot_001.png)
