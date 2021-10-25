@@ -8,6 +8,22 @@ Grey Apple rEFInd theme
 Based on (most icons and config):
 [refind-dark-theme](https://github.com/samuelmeuli/refind-theme-dark)
 
+Roadmap:
+
+* [x] Make icons grey
+* [x] Make background
+* [x] Make icons smaller, room for dot
+* [x] Make selection dots
+* [x] Restore some text and functions? Look at config info
+* [x] Preliminary screenshot
+* [ ] Hide double apple
+* [ ] Install something other than macos
+* [ ] Screenshot with linux
+* [ ] Add linux install/config instructions to README
+* [ ] Clean up SVGs (get rid of inkscape bloat)
+* [ ] More icons?
+
+
 
 Icons
 -----
@@ -32,24 +48,6 @@ Installation (macos)
    ```
    include themes/grey-apple/theme.conf
    ```
-
-
-Roadmap
--------
-
-* [x] Make icons grey
-* [x] Make background
-* [x] Make icons smaller, room for dot
-* [x] Make selection dots
-* [x] Restore some text and functions? Look at config info
-* [x] Preliminary screenshot
-* [ ] Hide double apple
-* [ ] Install something other than macos
-* [ ] Screenshot with linux
-* [ ] Add linux install/config instructions to README
-* [ ] Clean up SVGs (get rid of inkscape bloat)
-* [ ] More icons?
-
 
 Links
 -----
