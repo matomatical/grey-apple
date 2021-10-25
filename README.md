@@ -16,6 +16,7 @@ Roadmap:
 * [x] Make selection dots
 * [x] Restore some text and functions? Look at config info
 * [x] Preliminary screenshot
+* [ ] Make the function icons smaller (and remove some)
 * [ ] Hide double apple
 * [ ] Install something other than macos
 * [ ] Screenshot with linux
