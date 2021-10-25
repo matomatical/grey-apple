@@ -20,6 +20,7 @@ Roadmap:
 * [ ] Hide double apple
 * [ ] Install something other than macos
 * [ ] Screenshot with linux
+* [ ] Animated screenshot like [this genius](https://github.com/Chrisae9/rEFInd-mountain)
 * [ ] Add linux install/config instructions to README
 * [ ] Clean up SVGs (get rid of inkscape bloat)
 * [ ] More icons?
