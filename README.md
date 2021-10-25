@@ -42,7 +42,7 @@ Installation (macos)
    sudo mount -t msdos /dev/disk0s1 /Volumes/ESP
    ```
 
-2. Copy this repository into `/Volumes/ESP/EFI/refind/themes`.
+2. Clone this repository into `/Volumes/ESP/EFI/refind/themes`.
     
 3. Add the following line within `/Volumes/ESP/EFI/refind/refind.conf`:
    ```
