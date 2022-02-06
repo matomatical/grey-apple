@@ -2,7 +2,7 @@ Grey Apple rEFInd theme (WIP)
 =============================
 
 
-![Screenshot: Press F10. Saved to ESP root.](screenshots/screenshot_001.png)
+![Press F10 to save screenshots to ESP root](screenshots/animation.gif)
 
 
 Based on (most icons and config):
@@ -16,11 +16,11 @@ Roadmap:
 * [x] Make selection dots
 * [x] Restore some text and functions? Look at config info
 * [x] Preliminary screenshot
-* [ ] Make the function icons smaller (and remove some)
-* [ ] Hide double apple
-* [ ] Install something other than macos
-* [ ] Screenshot with linux
-* [ ] Animated screenshot like [this genius](https://github.com/Chrisae9/rEFInd-mountain)
+* [x] Make the function icons smaller (and remove some)
+* [x] Hide double apple
+* [x] Install something other than macos
+* [x] Screenshot with linux
+* [x] Animated screenshot like [this genius](https://github.com/Chrisae9/rEFInd-mountain)
 * [ ] Add linux install/config instructions to README
 * [ ] Clean up SVGs (get rid of inkscape bloat)
 * [ ] More icons?
@@ -77,3 +77,4 @@ Other cool themes I spotted:
   * https://github.com/Wooniety/rEFInd-theme-Genshin-Impact
   * https://github.com/Chrisae9/rEFInd-mountain
   * https://github.com/josephsurin/refind-theme-circle
+* The rEFInd website also has a list of themes.
